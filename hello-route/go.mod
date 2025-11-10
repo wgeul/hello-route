@@ -1,3 +1,3 @@
 module github.com/wgeul/hello-route/hello-route
 
-go 1.23.0
+go 1.23

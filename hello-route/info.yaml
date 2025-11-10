@@ -1,0 +1,5 @@
+slug_name: hello-route
+type: route
+route: /hello
+version: 0.0.1
+author: you
